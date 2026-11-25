@@ -1,0 +1,2 @@
+# Optional: h5py is needed only to open .h5 files. The app works without it.
+h5py
